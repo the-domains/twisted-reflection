@@ -6,9 +6,9 @@ color:
   saturation: 0.3558335250709206
   rhythmicContrast: 0.48238646192476153
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
 name: twisted reflection
