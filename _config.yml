@@ -1,14 +1,14 @@
-layout_spectrum: 0.6518471364397556
-typography_spectrum: 0.84933224436827
+layout_spectrum: 0.9263292269315571
+typography_spectrum: 0.7135621190536767
 color:
-  brandStrength: 0.4091500104404986
-  lightness: 0.19320497964508832
-  saturation: 0.3558335250709206
-  rhythmicContrast: 0.48238646192476153
+  brandStrength: 0.7779169569257647
+  lightness: 0.8834222995210439
+  saturation: 0.05291492980904877
+  rhythmicContrast: 0.07011115085333586
   brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: twisted reflection
